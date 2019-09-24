@@ -32,9 +32,22 @@ A saída de cada sonda deverá ser suas coordenadas finais e a direção para on
 
 EXEMPLO:
 Dados de entrada para testes:
-5 5 1 2 N LMLMLMLMM 3 3 E MMRMMRMRRM
 
-Saída esperada: 1 3 N 5 1 E
+5 5
+
+1 2 N
+
+LMLMLMLMM
+
+3 3 E
+
+MMRMMRMRRM
+
+Saída Esperada:
+
+1 3 N
+
+5 1 E
 
 
 ## Submissão
